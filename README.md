@@ -1,4 +1,4 @@
-# state_app1
+# Counter App
 
 A new Flutter project.
 
